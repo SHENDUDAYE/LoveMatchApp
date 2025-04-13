@@ -167,8 +167,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-        st.code(result)
-
-if __name__ == "__main__":
-    main()
-    
